@@ -1,0 +1,66 @@
+{
+  "_source": "NASA DONKI (Space Weather Database Of Notifications, Knowledge, Information), Community Coordinated Modeling Center, NASA Goddard. Records copied from the DONKI activity pages linked in each entry. API: https://api.nasa.gov/DONKI/FLR and https://api.nasa.gov/DONKI/SEP",
+  "events": [
+    {
+      "id": "2023-07-17T23:37:00-FLR-001",
+      "begin": "2023-07-17T23:37Z", "peak": "2023-07-18T00:06Z", "end": "2023-07-18T00:23Z",
+      "classType": "M5.7", "sourceLocation": "S25W72", "activeRegion": 13363,
+      "seps": [
+        { "id": "2023-07-18T00:53:00-SEP-001", "instrument": "STEREO A: IMPACT 13-100 MeV" },
+        { "id": "2023-07-18T01:00:00-SEP-001", "instrument": "MODEL: REleASE:ACE/EPAM 28.2-50.1 MeV" },
+        { "id": "2023-07-18T01:00:00-SEP-002", "instrument": "MODEL: REleASE:ACE/EPAM 15.8-39.8 MeV" }
+      ],
+      "url": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/26050/3"
+    },
+    {
+      "id": "2023-09-01T03:26:00-FLR-001",
+      "begin": "2023-09-01T03:26Z", "peak": "2023-09-01T03:52Z", "end": "2023-09-01T04:06Z",
+      "classType": "M1.2", "sourceLocation": "N09W70", "activeRegion": 13413,
+      "seps": [
+        { "id": "2023-09-01T04:30:00-SEP-001", "instrument": "GOES-P: SEISS >10 MeV" },
+        { "id": "2023-09-01T04:34:00-SEP-003", "instrument": "STEREO A: IMPACT 13-100 MeV" }
+      ],
+      "url": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/26695/3"
+    },
+    {
+      "id": "2024-06-08T01:23:00-FLR-001",
+      "begin": "2024-06-08T01:23Z", "peak": "2024-06-08T01:49Z", "end": "2024-06-08T02:19Z",
+      "classType": "M9.7", "sourceLocation": "S17W68", "activeRegion": 13697,
+      "seps": [
+        { "id": "2024-06-08T02:25:00-SEP-001", "instrument": "GOES-P: SEISS >100 MeV" },
+        { "id": "2024-06-08T02:55:00-SEP-001", "instrument": "GOES-P: SEISS >10 MeV" }
+      ],
+      "url": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/31335/3"
+    },
+    {
+      "id": "2025-01-04T14:24:00-FLR-001",
+      "begin": "2025-01-04T14:24Z", "peak": "2025-01-04T15:08Z", "end": "2025-01-04T15:56Z",
+      "classType": "C9.3", "sourceLocation": "S17W55", "activeRegion": 13939,
+      "seps": [
+        { "id": "2025-01-04T22:15:00-SEP-001", "instrument": "GOES-P: SEISS >10 MeV" },
+        { "id": "2025-01-04T22:23:00-SEP-001", "instrument": "STEREO A: IMPACT 13-100 MeV" }
+      ],
+      "url": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/36258/2"
+    },
+    {
+      "id": "2026-01-18T17:27:00-FLR-001",
+      "begin": "2026-01-18T17:27Z", "peak": "2026-01-18T18:09Z", "end": "2026-01-18T18:51Z",
+      "classType": "X1.9", "sourceLocation": "S15E20", "activeRegion": 14341,
+      "seps": [
+        { "id": "2026-01-18T22:33:00-SEP-001", "instrument": "SOHO: COSTEP 15.8-39.8 MeV" },
+        { "id": "2026-01-18T22:55:00-SEP-001", "instrument": "GOES-P: SEISS >10 MeV" }
+      ],
+      "url": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/44029/2"
+    },
+    {
+      "id": "2026-07-30T15:53:00-FLR-001",
+      "begin": "2026-07-30T15:53Z", "peak": "2026-07-30T17:00Z", "end": "2026-07-30T17:56Z",
+      "classType": "M1.9", "sourceLocation": "N16W65", "activeRegion": 14492,
+      "seps": [
+        { "id": "2026-07-30T18:25:00-SEP-001", "instrument": "GOES-P: SEISS >100 MeV" },
+        { "id": "2026-07-30T18:45:00-SEP-001", "instrument": "GOES-P: SEISS >10 MeV" }
+      ],
+      "url": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/47867/3"
+    }
+  ]
+}

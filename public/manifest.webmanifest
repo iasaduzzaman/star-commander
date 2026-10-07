@@ -1,0 +1,10 @@
+{
+  "name": "Artemis Base Commander",
+  "short_name": "Base Commander",
+  "description": "Run a lunar south pole outpost for 30 sols.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1A2E",
+  "theme_color": "#0B1A2E",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
