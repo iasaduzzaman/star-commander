@@ -13,7 +13,7 @@ export default function PlayScreen({ game, mode, setTask, setPlan, endSol, setOv
   return (
     <div className="min-h-screen flex flex-col">
       <header className="flex items-center justify-between px-3 sm:px-5 pt-3">
-        <button onClick={onMenu} className="font-display font-semibold text-cream hover:text-artemis">Base Commander</button>
+        <button onClick={onMenu} className="font-display font-semibold text-cream hover:text-artemis">Star Commander</button>
         <div className="flex gap-4 text-sm">
           <button onClick={() => setOverlay('help')} className="text-cream-dim hover:text-cream">Help</button>
           <button onClick={() => setOverlay('sources')} className="text-cream-dim hover:text-cream">Data</button>
