@@ -1,4 +1,4 @@
-# Artemis Base Commander
+# Artemis Star Commander
 
 A turn-based browser game for the **2026 NASA Space Apps Challenge: Build a Junior Astronaut Mission Trainer**.
 Players run a four-person outpost on the rim of Shackleton crater for 30 sols, balancing **power, life support,
