@@ -64,19 +64,6 @@ src/
 scripts/balance-check.mjs
 ```
 
-## Before you submit: verify the numbers
-
-Values are rounded from real sources so the game stays playable. **Check each citation in
-`src/data/sources.js` against the original document** and adjust if needed. Known simplifications to mention
-honestly in your write-up:
-
-- Greenhouse crops reach harvest in about 10 sols (real lettuce takes about 4 weeks); harvests supplement food rather than replace it.
-- Water use treats all electrolysis water as lost; real systems recover some through CO₂ reduction.
-- Radiation health effects are simplified into a health penalty; real effects below 1 Sv are long-term risks, not sickness.
-- CRaTER measures dose in silicon detectors in lunar orbit. The game uses only the *shape* of each storm (share of dose per day), not its absolute value. Storm strength is a game scaling of the DONKI flare class.
-- The daily surface dose (1.37 mSv/day) comes from China's Chang'e-4 lander, not NASA.
-- Solar array output is a single per-sol figure, not a full illumination model.
-
 ## Accessibility
 
 Easy-read font (Atkinson Hyperlegible), colour-blind palette with ✓ ▲ ✕ symbols on every status,
